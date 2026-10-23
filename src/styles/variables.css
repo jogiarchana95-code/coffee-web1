@@ -1,0 +1,13 @@
+:root {
+  --bg: #111110;
+  --card: #ffffff;
+  --primary: #cc8050;
+  --primary-dark: #a96138;
+  --accent: #cc8050;
+  --text: #f5f3f0;
+  --muted: #9b9996;
+  --radius: 10px;
+  --shadow: 0 8px 24px rgba(0, 0, 0, 0.22);
+  --nav-height: 64px;
+  --header-height: 56px;
+}
